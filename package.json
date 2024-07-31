@@ -1,0 +1,16 @@
+{
+  "name": "psychyai",
+  "version": "1.0.0",
+  "description": "PsychyAI is my own AI that I have made using ChatGPT/OpenAI API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "ai-start": "node script.js"
+  },
+  "author": "Psychy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.53.2"
+  }
+}
